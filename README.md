@@ -2,6 +2,8 @@
 
 I use this repository to show the work I accomplished whilst doing research for Professor Lei Wang of Purdue EAPS. This will include some amount of code, as well as resources and presentations I made/used.
 
+Throughout this research, I worked with the MACDA and EMARS data sets. The MACDA Data which stands for Mars Analysis Correction Data Assimilation is a reanalysis dataset which covers four years of the martian atmospheric data (MY 24 - MY 27). It is constructed by TES (Thermal Emission Spectrometer) and MGS (Mars Global Surveyor) and is 63 files in total. Each of these files covers 30 Martian sols with each sol spanning 24 Martian hours and data being captured every two hours. This dataset covers a limited number of variables including “co2ice” (surface_frozen_carbon_dioxide_amount), “Ls” ("solar_longitude), latitude and longitude, etc
+
 You can find my AGU profile here: https://agu.confex.com/agu/fm22/meetingapp.cgi/Person/1197083
 
 File Information:
